@@ -21,16 +21,14 @@
                     <td>Province: </td>  
                     <td>  
                         <asp:DropDownList ID="DropDownList1" runat="server">  
-                            <asp:ListItem Text="Select Province" Value="select" Selected="True"></asp:ListItem>  
-                            <asp:ListItem Text="Gauteng" Value="Gauteng"></asp:ListItem>  
-                            <asp:ListItem Text="Limpopo" Value="Limpopo"></asp:ListItem>  
-                            <asp:ListItem Text="Mpumalanga" Value="Mpumalanga"></asp:ListItem>
-                            <asp:ListItem Text="Kwazulu Natal" Value="Kwazulu Natal"></asp:ListItem>  
-                            <asp:ListItem Text="North West" Value="North West"></asp:ListItem>  
-                            <asp:ListItem Text="Western Cape" Value="Western Cape"></asp:ListItem>
-                            <asp:ListItem Text="Eastern Cape" Value="Eastern Cape"></asp:ListItem>  
-                            <asp:ListItem Text="Northern Cape" Value="Northern Cape"></asp:ListItem>  
-                            <asp:ListItem Text="Free State" Value="Free State"></asp:ListItem>
+                            <asp:ListItem Text="Select FavouriteFood" Value="select" Selected="True"></asp:ListItem>  
+                            <asp:ListItem Text="Pizza" Value="Pizza"></asp:ListItem>  
+                            <asp:ListItem Text="Pasta" Value="Pasta"></asp:ListItem>  
+                            <asp:ListItem Text="Pap and Wors" Value="Pap and Wors"></asp:ListItem>
+                            <asp:ListItem Text="Chicken stir fry" Value="Chicken stir fry"></asp:ListItem>  
+                            <asp:ListItem Text="Beef stir fry" Value="Beef stir fry"></asp:ListItem>  
+                            <asp:ListItem Text="Samp and Beans" Value="Samp and Beans"></asp:ListItem>
+                            <asp:ListItem Text="Other" Value="Other"></asp:ListItem>  
                         </asp:DropDownList>  
                     </td>  
                 </tr>   
